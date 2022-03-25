@@ -1,11 +1,18 @@
 body{
-    color: #f5570e;
-    background-color: rgb(58, 54, 54);
+    color: black;
+    background-color: rgb(186, 218, 233);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 #logo img{
-    width: 20%;
-    border: 5px solid #f5570e;
+    width: 15%;
+    border: 2px solid black;
     border-radius: 10px;
+}
+.secao{
+    border: 2px solid rgb(165, 144, 197);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 2px;
+    margin-bottom: 5px;
 }
