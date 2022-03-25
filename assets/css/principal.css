@@ -1,4 +1,11 @@
 body{
-    color: black;
-    background-color: rgb(188, 206, 238);
+    color: #f5570e;
+    background-color: rgb(75, 70, 70);
+    font-family: sans-serif
+}
+
+#logo img{
+    width: 20%;
+    border: 5px solid #c05812;
+    border-radius: 10px;
 }
