@@ -1,11 +1,11 @@
 body{
     color: #f5570e;
-    background-color: rgb(75, 70, 70);
-    font-family: sans-serif
+    background-color: rgb(58, 54, 54);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 #logo img{
     width: 20%;
-    border: 5px solid #c05812;
+    border: 5px solid #f5570e;
     border-radius: 10px;
 }
